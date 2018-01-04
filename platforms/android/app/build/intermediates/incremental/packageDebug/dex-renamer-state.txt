@@ -1,0 +1,7 @@
+#Wed Jan 03 15:18:45 CST 2018
+base.0=D\:\\aweex\\weexDemo\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_635a432ef509deae7bb725c89c955c432992a73a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\aweex\\weexDemo\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d7f455f3c7ee79a0101cd6f4366eb8af254fd4d3\\classes.dex
+base.1=D\:\\aweex\\weexDemo\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d7f455f3c7ee79a0101cd6f4366eb8af254fd4d3
+file.0=D\:\\aweex\\weexDemo\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_635a432ef509deae7bb725c89c955c432992a73a\\classes.dex

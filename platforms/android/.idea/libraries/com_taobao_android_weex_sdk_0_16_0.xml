@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.taobao.android:weex_sdk-0.16.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/8ba02c35a207021163b1e6af28e27a4cdc2f3faa/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8ba02c35a207021163b1e6af28e27a4cdc2f3faa/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.android/weex_sdk/0.16.0/7f4e344a9b06f973d6569e6aef9820278851b112/weex_sdk-0.16.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

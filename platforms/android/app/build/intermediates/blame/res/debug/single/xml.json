@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Users\\budao\\app-framework-android\\bin\\templates\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "D:\\Users\\budao\\app-framework-android\\bin\\templates\\app\\build\\intermediates\\exploded-aar\\templates\\weexplugin\\unspecified\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\Users\\qiushiyuan\\office\\GitHub\\weexdemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "D:\\Users\\qiushiyuan\\office\\GitHub\\weexdemo\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "D:\\Users\\qiushiyuan\\office\\GitHub\\weexdemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "D:\\Users\\qiushiyuan\\office\\GitHub\\weexdemo\\platforms\\android\\weexplugin\\build\\intermediates\\bundles\\default\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\aweex\\weexDemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "D:\\aweex\\weexDemo\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "D:\\Users\\budao\\weex-pack\\generator\\platforms\\templates\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "D:\\Users\\budao\\weex-pack\\generator\\platforms\\templates\\android\\app\\build\\intermediates\\exploded-aar\\android\\weexplugin\\unspecified\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\aweex\\weexdemo-master\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "D:\\aweex\\weexdemo-master\\platforms\\android\\weexplugin\\build\\intermediates\\bundles\\default\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\aweex\\weexdemo-master\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "D:\\aweex\\weexdemo-master\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "D:\\Users\\budao\\app-framework-android\\bin\\templates\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "D:\\Users\\budao\\app-framework-android\\bin\\templates\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "D:\\Users\\budao\\weex-pack\\generator\\platforms\\templates\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "D:\\Users\\budao\\weex-pack\\generator\\platforms\\templates\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "D:\\aweex\\weexDemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "D:\\aweex\\weexDemo\\platforms\\android\\weexplugin\\build\\intermediates\\bundles\\default\\res\\xml\\config.xml"
+    }
+]

@@ -1,18 +1,10 @@
 <template>
     <div class="wrapper">
-        <image style="width: 750px;height: 1334px;"
-               src="https://img.alicdn.com/tps/TB1z.55OFXXXXcLXXXXXXXXXXXX-560-560.jpg"></image>
+        <image class="divimg"
+               src="http://osev8jqm0.bkt.clouddn.com/blackground.png"></image>
         <div class="loginwrapper">
             <div class="inputuser">
                 <text class="inputtitle">+86</text>
-                <input class="user" type="text" placeholder="用户名" :autofocus=false value="" v-model="form.phone"/>
-            </div>
-            <div class="inputuser">
-                <text class="inputtitle">密码</text>
-                <input class="user" type="password" placeholder="密码" :autofocus=false value="" v-model="form.password"/>
-            </div>
-            <div class="inputuser">
-                <wxc-button class="loginbtn" text="确定" @wxcButtonClicked="login"></wxc-button>
             </div>
         </div>
     </div>
@@ -73,44 +65,38 @@
 
 <style scoped lang="stylus" rel="stylesheet/stylus">
     .wrapper {
+        position: relative;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+    }
+
+    .divimg {
         position: absolute;
+        width: 750px;
+        height: 1334px;
+        top: 0px;
+        left: 0px;
     }
 
     .loginwrapper {
+        position: absolute;
         flex-direction: column;
-        top: -1050px;
+        top: 0px;
+        left: 0px;
         width: 750px;
         height: 300px;
-        padding-left: 30px;
-        padding-right: 30px;
         background-color #0088fb;
-    }
-
-    .loginbtn {
-        flex: 1;
-        justify-items: center;
+        display: flex;
         align-items: center;
+        justify-content: center;
     }
 
     .inputuser {
-        flex-direction: row;
-        justify-items: center;
-        align-items: center;
-        margin-bottom: 20px;
-    }
-
-    .inputtitle {
-        flex: 0.3;
-        justify-items: center;
-        align-items: center;
-        padding: 20px;
-        background-color #fb1331;
-    }
-
-    .user {
-        flex: 1;
-        justify-items: center;
-        align-items: center;
-        padding: 20px;
+        width: 100px;
+        height: 100px;
+        background-color: brown
+        justify-content: center
     }
 </style>
